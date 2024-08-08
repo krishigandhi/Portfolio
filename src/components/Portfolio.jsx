@@ -5,7 +5,7 @@ import PassGenApp from '../assets/portfolio/PassGenApp.png';
 import CodeBin from '../assets/portfolio/CodeBin.png';
 
 
-import reactWeather from '../assets/portfolio/reactWeather.jpg';
+// import reactWeather from '../assets/portfolio/reactWeather.jpg';
 
 const Portfolio = () => {
 
