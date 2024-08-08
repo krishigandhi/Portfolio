@@ -4,9 +4,6 @@ import CurrencyConvertor from '../assets/portfolio/CurrencyConvertor.png';
 import PassGenApp from '../assets/portfolio/PassGenApp.png';
 import CodeBin from '../assets/portfolio/CodeBin.png';
 
-
-// import reactWeather from '../assets/portfolio/reactWeather.jpg';
-
 const Portfolio = () => {
 
   const portfolios =[
@@ -33,19 +30,7 @@ const Portfolio = () => {
       src: CodeBin,
       code: 'https://github.com/krishigandhi/Code_Bin',
       demo:'' ,
-    },
-    // {
-    //   id: 5,
-    //   src: arrayDestruct,
-    //   code: '',
-    //   demo:'' ,
-    // },
-    // {
-    //   id: 6,
-    //   src: reactWeather,
-    //   code: '',
-    //   demo:'' ,
-    // },
+    }
   ];
   const openCode = (code) =>{
     window.open(code,"_blank");
