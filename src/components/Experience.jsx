@@ -79,7 +79,7 @@ const Experience = () => {
             <div className=' pt-4 md:pt-24 lg:pt-36 '>
                 {/* here comes the padding */}
               <p className="text-4xl font-bold border-b-4 border-gray-500 p-2  inline">
-                Experience
+                EXPERIENCE
               </p>
               <p className="py-6">These are the technologies I've worked with</p>
             </div>
